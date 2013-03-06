@@ -1,0 +1,236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"en",
+				"end"
+			],
+			[
+				"fo",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"Preferences: Settings - User"
+			],
+			[
+				"pref",
+				"Preferences: Browse Packages"
+			],
+			[
+				"snip",
+				"Snippet: attr_accessor .."
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"set syntax: ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax: cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"Set Syntax",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/sample_app/Gemfile",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/first_app/app/models/user.rb",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/first_app/app/models/micropost.rb",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/first_app/config/routes.rb",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/first_app/app/controllers/users_controller.rb",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/first_app/README.md",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/first_app/.gemrc",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/first_app/Gemfile",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/first_app/.gitignore",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/first_app/.git/COMMIT_EDITMSG",
+		"/Users/willpaul/.gemrc",
+		"/Users/willpaul/Dropbox/PortfolioSite/port/index.html",
+		"/Users/willpaul/Dropbox/PortfolioSite/port/alone.html",
+		"/Users/willpaul/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/willpaul/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/willpaul/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"micro",
+				"app/models/micropost.rb"
+			],
+			[
+				"u",
+				"app/models/user.rb"
+			],
+			[
+				"user_con",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"",
+				"/Users/willpaul/Dropbox/PortfolioSite/port/alone.html"
+			],
+			[
+				"alone.html",
+				"/Users/willpaul/Dropbox/PortfolioSite/port/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true
+}
