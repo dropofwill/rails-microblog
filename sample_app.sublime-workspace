@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"have",
+				"have_content"
+			],
+			[
 				"en",
 				"end"
 			],
@@ -19,15 +23,19 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 47.0,
+		"height": 247.0,
 		"selected_items":
 		[
 			[
-				"instal",
-				"Package Control: Install Package"
+				"set ru",
+				"Set Syntax: Ruby"
 			],
 			[
 				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
 				"Package Control: Install Package"
 			],
 			[
@@ -92,7 +100,19 @@
 	},
 	"file_history":
 	[
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/sample_app/spec/requests/static_pages_spec.rb",
+		"/Users/willpaul/Dropbox/RIT/Previous/4080-231 Programming II/wpaul_Project2_final/.git/COMMIT_EDITMSG",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/sample_app/app/views/layouts/application.html.erb",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/sample_app/app/views/static_pages/about.html.erb",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/sample_app/config/routes.rb",
 		"/Users/willpaul/Documents/Web Projects/RailsProject1/sample_app/Gemfile",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/sample_app/Guardfile",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/sample_app/spec/spec_helper.rb",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/sample_app/.rspec",
+		"/Users/willpaul/Documents/Web Projects/RailsProject1/sample_app/README.md",
 		"/Users/willpaul/Documents/Web Projects/RailsProject1/first_app/app/models/user.rb",
 		"/Users/willpaul/Documents/Web Projects/RailsProject1/first_app/app/models/micropost.rb",
 		"/Users/willpaul/Documents/Web Projects/RailsProject1/first_app/config/routes.rb",
@@ -125,6 +145,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Sample"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -178,6 +199,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 293.0
+	},
 	"replace":
 	{
 		"height": 0.0
@@ -188,6 +213,38 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"static",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"gua",
+				"Guardfile"
+			],
+			[
+				"hel",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"home.",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"static_pages_",
+				"spec/requests/static_pages_spec.rb"
+			],
 			[
 				"user",
 				"app/models/user.rb"
@@ -209,10 +266,6 @@
 				"config/routes.rb"
 			],
 			[
-				"",
-				"/Users/willpaul/Dropbox/PortfolioSite/port/alone.html"
-			],
-			[
 				"alone.html",
 				"/Users/willpaul/Dropbox/PortfolioSite/port/index.html"
 			]
@@ -231,6 +284,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 195.0,
+	"side_bar_width": 234.0,
 	"status_bar_visible": true
 }
