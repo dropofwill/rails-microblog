@@ -1,5 +1,7 @@
 @import "bootstrap";
 
+$lightgray : #999;
+
 /* universal */
 
 html {
@@ -45,7 +47,7 @@ h2 {
   margin-bottom: 30px;
   text-align: center;
   font-weight: normal;
-  color: #999;
+  color: $lightgray;
 }
 
 p {
@@ -65,9 +67,32 @@ p {
   padding-top: 9px;
   font-weight: bold;
   line-height: 1;
+  &:hover {
+    color: #fff;
+    text-decoration: none;
+  }
 }
 
-#logo:hover {
-  color: #fff;
-  text-decoration: none;
+footer {
+  margin-top: 45px;
+  padding: 5px 20px 0 20px;
+  border-top: 1px solid #eaeaea;
+  color: $lightgray;
+  a {
+    color: #555;
+    &:hover { 
+      color: #222;
+    }
+  }  
+  small { 
+    float: left; 
+  }
+  ul {
+    float: right;
+    list-style: none;
+    li {
+      float: left;
+      margin-left: 10px;
+    }
+  }
 }
